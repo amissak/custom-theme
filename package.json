@@ -22,7 +22,7 @@
     "fix:shopify": "cd shopify && shopify theme check -a"
   },
   "dependencies": {
-    "tailwindcss": "^3.0.2",
+    "bootstrap": "^5.1.3",
     "vue": "^3.2.26",
     "vuex": "^4.0.2"
   },
@@ -46,6 +46,8 @@
     "postcss-html": "^1.3.0",
     "postcss-import": "^14.0.2",
     "postcss-loader": "^6.2.1",
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0",
     "stylelint": "^14.1.0",
     "stylelint-config-recommended": "^6.0.0",
     "stylelint-webpack-plugin": "^3.1.0",
